@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Capstone Project: PlaceIt](https://placeit.pro/)
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel, React, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Perod122](https://github.com/Perod122)
 
