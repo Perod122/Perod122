@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jasperballesteros21@gmail.com**
 
-- ⚡ Fun fact **I know how to Tattoo**
+- ⚡ Fun fact **I know how to Tattoo on skin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
