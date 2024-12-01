@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Capstone Project: PlaceIt](https://placeit.pro/)
 
-- 🌱 I’m currently learning **Laravel, React, JavaScript**
+- 🌱 I’m currently learning **Laravel, React, JavaScript, Time Complexity of a Program**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Perod122](https://github.com/Perod122)
 
