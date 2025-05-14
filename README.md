@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://fb.com/jahisgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahisgood" height="30" width="40" /></a>
 <a href="https://instagram.com/jahsspear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahsspear" height="30" width="40" /></a>
+<a href="https://ph.linkedin.com/in/jasper-eldrich-ballesteros-8b2540303" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png)" alt="jahsspear" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
