@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PROJECTS WITH PERN STACK, NEXT.JS, TYPESCRIPT](https://github.com/Perod122/Products_PERN)
 
-- 🌱 I’m currently learning **PERN Stack, JavaScript, TypeScript, Time Complexity of a Program**
+- 🌱 I’m currently learning **PERN Stack, JavaScript, TypeScript, NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Perod122](https://github.com/Perod122)
 
