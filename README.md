@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **jasperballesteros21@gmail.com**
 
-- ⚡ Fun fact **I was a Tattoo Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
