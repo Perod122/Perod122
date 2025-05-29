@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PERN Stack, JavaScript, TypeScript, NEXTJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Perod122](https://github.com/Perod122)
+- 👨‍💻 All of my projects are available at (https://my-portfolio-perods-projects.vercel.app/)
 
 - 📫 How to reach me **jasperballesteros21@gmail.com**
 
