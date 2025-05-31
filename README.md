@@ -3,7 +3,7 @@
 
 <p align="left">Welcome to my GitHub! I'm a passionate developer from the Cebu, exploring the limitless possibilities of software development and striving to create impactful solutions.</p>
 
-- 🔭 I’m currently working on [PROJECTS WITH PERN STACK, NEXT.JS, TYPESCRIPT](https://github.com/Perod122/Products_PERN)
+- 🔭 I’m currently working on [PROJECTS WITH PERN STACK, NEXT.JS, TYPESCRIPT, WEBSOCKET AND JWT ](https://github.com/Perod122/Products_PERN)
 
 - 🌱 I’m currently learning **PERN Stack, JavaScript, TypeScript, NEXTJS**
 
